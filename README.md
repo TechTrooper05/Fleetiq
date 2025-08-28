@@ -3,6 +3,19 @@
 **Fleetiq** is an AI-powered platform that transforms fleet management by **dynamically reallocating vehicles** based on **live traffic, weather, and demand data**.  
 It helps businesses improve efficiency, utilization, and customer satisfaction through intelligent decision-making.
 
+Team Members:
+1. Kartik Singh
+2. Ayush Tak
+3. Shaurya Jain
+4. Aditya Pawaskar
+5. Harshit Singh
+   
+---
+
+## 🌐 Live Demo
+Here's the preview of our web app:
+https://v0-fleetiq-web-app.vercel.app/
+
 ---
 
 ## ✨ Why it Matters
